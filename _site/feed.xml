@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-10T20:49:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2024/12/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2024-12-10T00:00:00+08:00</published><updated>2024-12-10T00:00:00+08:00</updated><id>http://localhost:4000/2024/12/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2024/12/10/welcome-to-jekyll.html"><![CDATA[<h2 id="如何添加锁屏小组件">如何添加锁屏小组件？</h2>
+<p>注意：<font color="red">锁屏小组件仅支持iOS 16.0及以上系统</font>
+1、打开彩虹小组件App，点击底导的“锁屏组件”，选择要添加的小组件点击进入详情页，点击详情页底部的保存按钮</p>
+
+<p>2、在手机锁屏界面长按，如果没有添加新墙纸，点击右下角的加号按钮，添加新墙纸</p>
+
+<p>3、在新墙纸界面，点击顶部的条形、或者底部的矩形后进入添加锁屏小组件界面，在添加界面点击彩虹小组件，然后点击添加不同的小组件类型</p>
+
+<p>4、点击已添加的小组件，选择要显示的小组件，保存后可在锁屏上显示</p>]]></content><author><name></name></author><summary type="html"><![CDATA[如何添加锁屏小组件？ 注意：锁屏小组件仅支持iOS 16.0及以上系统 1、打开彩虹小组件App，点击底导的“锁屏组件”，选择要添加的小组件点击进入详情页，点击详情页底部的保存按钮]]></summary></entry></feed>
